@@ -1,0 +1,4 @@
+*
+!db-api.jar
+!docker-compose.yml
+!application.properties
